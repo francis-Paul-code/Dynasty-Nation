@@ -1,0 +1,172 @@
+body {
+    background:white;
+    color:black;
+    margin:20px;
+
+}
+#Main-header {
+    background: rgb(37, 35, 35);
+    color: white;
+    font-size: 35px;
+    font-family:  'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    Text-align: center;
+}
+#Nav-bar li {
+    display: inline;
+    text-decoration: none;
+
+}
+#Nav-bar ul{
+    box-sizing:Border-box;
+    float: left;
+    width:70%;
+
+}
+.navbar-searchbar{
+    box-sizing: border-box;
+    float:right;
+    width:30%;
+    
+
+}
+#Myv-bar {
+    margin:20px;
+}
+#Nav-bar a{
+    text-decoration: none;
+    padding-left: 20px;
+    color: black;
+    Border-left: 1px solid black;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:700;
+
+}
+#main-footer{
+    background: rgb(37, 35, 35);
+    Color: white;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 15px;
+    min-height:200px;
+    box-sizing: border-box;
+}
+#main-footer li{
+    text-decoration: none;
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    list-style: none;
+    padding-bottom: 5px;
+
+}
+#main-footer a {
+    text-decoration: none;
+    color:white;
+}
+#main-footer div{
+    box-sizing: border-box;
+    float : left;
+    padding: 10px;
+    padding-left:30px;
+}
+.footer-searchbar {
+    box-sizing: border-box;
+    float: Right;
+    padding: 30px;
+}
+#main-footer h2{
+    padding-top: 150px;
+    padding-bottom:20px;
+    box-sizing: border-box;
+    float: center;
+}
+.searchbar{
+    background-color:black;
+    color: white;
+    width: 300px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-left: 20px;
+    Padding-bottom: 10px;
+}
+.container{
+    margin: 30px;
+    min-height: 300px;
+    background: rgb(37, 35, 35);
+}
+.container section{
+    padding: 20px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height:25px;
+    border-bottom:1px solid white;
+    
+}
+.container h1{
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    font-size:50px;
+    background:black;
+}
+.container article{
+    padding: 20px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 25px;
+    line-height:25px;
+    
+}
+.container h2{
+    font-size:40px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.showcase {
+    background:url(../Dynasty\ Nation/Images/ghetto.jpg);
+    height: 300px;
+    background-position:center;
+    background-repeat: no-repeat;
+    color:white;
+    line-height: 30px;
+    min-height: 300px;
+    Padding:30px;
+    font-size:25px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-Align:center;
+    margin: 30px;
+}
+.container h4{
+    font-size:16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-decoration:underline;
+    text-align:right;
+    padding-right:20px;
+}
+.container-contactus{
+    margin: 40px;
+    min-height: 300px;
+    background: rgb(37, 35, 35);
+}
+.container-contactus h1{
+    text-align:center;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:white;
+    font-size:50px;
+    background:black;
+}
+.container-contactus div{
+    text-align:center;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:25px;
+}
+.container-contactus form{
+    padding-bottom:30px;
+}
+.submit{
+    color:white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:18px;
+    background:black;
+}
