@@ -1,1 +1,1 @@
-# Mynewsite
+# Style Statement
